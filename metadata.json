@@ -1,0 +1,10 @@
+{
+  "name": "COS Context Keeper",
+  "description": "An AI-powered cognitive persistence layer that models, preserves, and restores human working context across digital environments in real time.",
+  "requestFramePermissions": [
+    "clipboard",
+    "display-capture",
+    "microphone",
+    "camera"
+  ]
+}
